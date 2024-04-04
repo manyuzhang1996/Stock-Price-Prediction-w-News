@@ -13,6 +13,7 @@ A project leverages historical news and stock price data and the latest news and
 
 ## Data Source
 The historical news and stock price data are from Kaggle: https://www.kaggle.com/datasets/deepakjoshi2k/yahoo-stock-prediction-by-news?select=NEWS_YAHOO_stock_prediction.csv
+
 The latest news and stock price data are scrapped from Finviz and Yahoo Finance. 
 The data are about FAANG companies:
 1. Facebook (Meta)
